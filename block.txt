@@ -1,0 +1,22 @@
+# --- Skype Core Services ---
+skype.com
+www.skype.com
+login.skype.com
+api.skype.com
+
+# --- Skype CDN / Media / Assets ---
+static.skypeassets.com
+skypeassets.com
+a.config.skype.com
+b.config.skype.com
+qos.skype.com
+
+# --- Skype Messaging + Presence (lync/skype backend) ---
+lync.com
+skypeforbusiness.com
+skypeforbusinessonline.com
+
+# --- Skype Media Relay / Calling ---
+swyfthub.com
+svc.config.skype.com
+pipe.skype.com
