@@ -1,0 +1,8 @@
+# Google services
+accounts.google.com
+clients2.google.com
+clients4.google.com
+
+# Apple services
+appleid.apple.com
+token.safebrowsing.apple
