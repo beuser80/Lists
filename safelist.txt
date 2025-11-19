@@ -7,3 +7,39 @@ clients4.google.com
 # Apple services
 appleid.apple.com
 token.safebrowsing.apple
+
+# --- World of Warcraft / Blizzard / Battle.net ---
+battle.net
+blizzard.com
+blizzard.neystatic.com
+bnetproduct-a.akamaihd.net
+bnetus-a.akamaihd.net
+worldofwarcraft.com
+us.worldofwarcraft.com
+launcher.battle.net
+cdn.blizzard.com
+assets.blz-contentstack.com
+media.blizzard.com
+api.blizzard.com
+auth.blizzard.com
+
+# --- Guild Wars 2 / ArenaNet ---
+guildwars2.com
+account.arena.net
+api.guildwars2.com
+cdn.guildwars2.com
+assetcdn.101.arenanetworks.com
+manifest.101.arenanetworks.com
+images.guildwars2.com
+static.guildwars2.com
+
+# --- Discord ---
+discord.com
+discordapp.com
+cdn.discordapp.com
+media.discordapp.net
+status.discord.com
+gateway.discord.gg
+images-ext-1.discordapp.net
+images-ext-2.discordapp.net
+discord.gg
