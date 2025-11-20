@@ -16,9 +16,14 @@ ln-msedge.net
 spov-msedge.net
 data.microsoft.com
 ecs.office.com
+events.data.microsoft.com
 
 # --- Mozilla ---
 services.mozilla.com
+mozilla.map.fastly.net
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
+
 # --- Skype Core Services ---
 skype.com
 www.skype.com
