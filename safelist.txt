@@ -12,6 +12,21 @@ clients4.google.com
 appleid.apple.com
 token.safebrowsing.apple
 
+# Steam services
+store.steampowered.com
+help.steampowered.com
+checkout.steampowered.com
+login.steampowered.com
+api.steampowered.com
+steamcommunity.com
+steamusercontent.com
+steamstatic.com
+steamgames.com
+steamserver.net
+steam-chat.com
+steambroadcast.akamaized.net
+
+
 # --- World of Warcraft / Blizzard / Battle.net ---
 battle.net
 blizzard.com
