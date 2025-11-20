@@ -5,11 +5,12 @@ anker-in.com
 # --- Apple ---
 swallow.apple.com
 apple-dns.net
-# --- Nest --- 
+
+# --- Nest ---
 logsink.devices.nest.com
 weather.nest.com
 
-# -- Microsoft ---
+# --- Microsoft ---
 msedge.net
 office.com
 ln-msedge.net
@@ -30,7 +31,6 @@ www.skype.com
 login.skype.com
 api.skype.com
 edge.skype.com
-skype.com
 static.skypeassets.com
 skypeassets.com
 a.config.skype.com
