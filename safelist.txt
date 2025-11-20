@@ -1,5 +1,5 @@
 #######################
-#Sleep Tracker
+# Sleep Tracker
 sleeptracker.com
 processor.tsi.sleeptracker.com
 
@@ -25,7 +25,6 @@ steamgames.com
 steamserver.net
 steam-chat.com
 steambroadcast.akamaized.net
-
 
 # --- World of Warcraft / Blizzard / Battle.net ---
 battle.net
@@ -64,68 +63,4 @@ images-ext-2.discordapp.net
 discord.gg
 
 # --- HiDive ---
-hidive.com
-api.hidive.com
-static.hidive.com
-assets.hidive.com
-d1k2us671qcoau.cloudfront.net
-
-# --- Netflix ---
-netflix.com
-www.netflix.com
-nflxvideo.net
-nflximg.net
-nflximg.com
-nflxext.com
-nflxso.net
-nflxso.com
-nflxsearch.net
-nflxsearch.com
-ichnaea.netflix.com
-secure.netflix.com
-api-global.netflix.com
-
-# --- Crunchyroll ---
-crunchyroll.com
-www.crunchyroll.com
-static.crunchyroll.com
-api.crunchyroll.com
-crunchyrollcdn.com
-static.crunchyrollcdn.com
-cr-play-service.crunchyrollsvc.com
-prod-api.crunchyrollsvc.com
-sentry.crunchyroll.com
-
-# --- HBO Max / Max ---
-max.com
-play.max.com
-api.play.max.com
-assets.max.com
-hbomax.com
-www.hbomax.com
-edge.api.hbo.com
-manifest.prod.hydra.hbo.com
-
-# --- Amazon Prime Video ---
-primevideo.com
-www.primevideo.com
-amazonvideo.com
-fls-na.amazon.com
-aiv-cdn.net
-aiv-delivery.net
-media-amazon.com
-images-na.ssl-images-amazon.com
-atv-ps.amazon.com
-atv-ext.amazon.com
-
-# --- YouTube ---
-youtube.com
-www.youtube.com
-m.youtube.com
-i.ytimg.com
-s.ytimg.com
-yt3.ggpht.com
-googlevideo.com
-youtubei.googleapis.com
-ytstatic.com
-ytimg.com
+hidive
