@@ -1,3 +1,19 @@
+reddit.com
+www.reddit.com
+oauth.reddit.com
+new.reddit.com
+i.reddit.com
+np.reddit.com
+
+youtube.com
+www.youtube.com
+m.youtube.com
+s.youtube.com
+youtube-nocookie.com
+ytimg.com
+googlevideo.com
+redirector.googlevideo.com
+
 #######################
 # Sleep Tracker
 sleeptracker.com
