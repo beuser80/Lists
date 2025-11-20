@@ -1,6 +1,8 @@
 # --- What ---
 trafficmanager.net
 anker-in.com
+p2p-ohi-3.anker-in.com
+p2p-cal-3.anker-in.com
 
 # --- Apple ---
 swallow.apple.com
