@@ -1,6 +1,10 @@
 # --- What ---
 trafficmanager.net
+anker-in.com
 
+# --- Apple ---
+swallow.apple.com
+apple-dns.net
 # --- Nest --- 
 logsink.devices.nest.com
 weather.nest.com
@@ -9,7 +13,9 @@ weather.nest.com
 msedge.net
 office.com
 ln-msedge.net
+spov-msedge.net
 data.microsoft.com
+ecs.office.com
 
 # --- Mozilla ---
 services.mozilla.com
