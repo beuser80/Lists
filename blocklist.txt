@@ -1,10 +1,25 @@
+# --- What ---
+trafficmanager.net
+
+# --- Nest --- 
+logsink.devices.nest.com
+weather.nest.com
+
+# -- Microsoft ---
+msedge.net
+office.com
+ln-msedge.net
+data.microsoft.com
+
+# --- Mozilla ---
+services.mozilla.com
 # --- Skype Core Services ---
 skype.com
 www.skype.com
 login.skype.com
 api.skype.com
-
-# --- Skype CDN / Media / Assets ---
+edge.skype.com
+skype.com
 static.skypeassets.com
 skypeassets.com
 a.config.skype.com
