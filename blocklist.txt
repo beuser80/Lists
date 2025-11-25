@@ -3,6 +3,7 @@ trafficmanager.net
 anker-in.com
 p2p-ohi-3.anker-in.com
 p2p-cal-3.anker-in.com
+connectivity-check.ubuntu.com
 
 # --- Apple ---
 swallow.apple.com
@@ -10,7 +11,8 @@ apple-dns.net
 
 # --- Nest ---
 logsink.devices.nest.com
-weather.nest.com
+weather.nest.comtime.nest.com
+nest.com
 
 # --- Microsoft ---
 msedge.net
@@ -20,6 +22,10 @@ spov-msedge.net
 data.microsoft.com
 ecs.office.com
 events.data.microsoft.com
+outlook.office365.com
+office365.com
+ooc-g2.tm-4.office.com
+mnz-efz.ms-acdc.office.com
 
 # --- Mozilla ---
 services.mozilla.com
