@@ -114,3 +114,5 @@ bam.nr-data.net
 hardstuck.gg
 www.hardstuck.gg
 static-cdn.jtvnw.net
+gw2-api.hardstuck.gg
+assets.gw2dat.com
