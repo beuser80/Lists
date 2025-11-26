@@ -113,3 +113,4 @@ bam.nr-data.net
 # Hardstuck.gg
 hardstuck.gg
 www.hardstuck.gg
+static-cdn.jtvnw.net
