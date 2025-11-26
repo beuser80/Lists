@@ -66,6 +66,7 @@ assetcdn.101.arenanetworks.com
 manifest.101.arenanetworks.com
 images.guildwars2.com
 static.guildwars2.com
+arena.net
 
 # --- Discord ---
 discord.com
@@ -80,3 +81,35 @@ discord.gg
 
 # --- HiDive ---
 hidive
+
+# Netflix
+netflix.com
+nflxext.com
+nflximg.com
+nflximg.net
+nflxso.net
+nflxvideo.net
+fast.com
+
+# Amazon Prime Video
+amazon.com
+primevideo.com
+media-amazon.com
+ssl-images-amazon.com
+amazonaws.com
+cloudfront.net
+aiv-cdn.net
+
+# HBO Max
+hbomax.com
+hbo.com
+max.com
+hbomaxcdn.com
+hbonow.com
+hbogo.com
+bamgrid.com
+bam.nr-data.net
+
+# Hardstuck.gg
+hardstuck.gg
+www.hardstuck.gg
