@@ -1,3 +1,10 @@
+#Random
+connectivity-check.ubuntu.com
+hooks.nabu.casa
+c6.paypal.com
+ssl.kaptcha.com
+
+# Reddit.com
 reddit.com
 www.reddit.com
 oauth.reddit.com
@@ -5,10 +12,10 @@ new.reddit.com
 i.reddit.com
 np.reddit.com
 
+# YouTube.com
 youtube.com
 www.youtube.com
-m.youtube.com
-s.youtube.com
+youtube.com
 youtube-nocookie.com
 ytimg.com
 googlevideo.com
