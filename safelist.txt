@@ -1,3 +1,12 @@
+#Apple 
+aipk7mm90v7tb.us-east-1.prod.service.minerva.devices.a2z.com
+news-events.apple.com
+news.iadsdk.apple.com
+news-sports-events.apple.com
+news-todayconfig-edge.apple.com
+gateway.icloud.com
+gateway.fe2.apple-dns.net
+
 #Random
 connectivity-check.ubuntu.com
 hooks.nabu.casa
